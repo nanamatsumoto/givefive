@@ -17,6 +17,8 @@ body{
   position: fixed;
 }
 
+
+
 @media screen and (min-width: 428px){
   .br-sp {display: none; }
 }
